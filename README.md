@@ -25,9 +25,8 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 *(Add your custom connectors here)*
 
 ## 🎓 Courses
-*(Coming soon)*
-
----
+- [Google Partner Skills Course 1600](https://partner.skills.google/course_templates/1600)
+- [Google Partner Skills Course 1446](https://partner.skills.google/course_templates/1446)
 
 ## Contributing
 Contributions are welcome! Please open a pull request or issue to add new resources.
