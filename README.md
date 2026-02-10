@@ -6,6 +6,7 @@ A curated list of resources for Google Cloud's **CX Agent Studio** (formerly Age
 
 ## 📝 Blogs & Articles
 - [Converting Business Requirements into a Live AI Agent Using Google’s CX Agent Studio](https://yashkavaiya.substack.com/p/converting-business-requirements) - A step-by-step guide to building agents from scratch.
+- [How to Deploy a Google Cloud Next Gen Agent CX Agent Studio to Telegram: A Step-by-Step Guide](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) - Building a bridge between 900 million Telegram users and enterprise-grade conversational AI
 
 ## 📺 Videos
 *(Coming soon - check [GenAI Guru on YouTube](https://youtube.com/@genai-guru))*
