@@ -23,6 +23,7 @@
 - [Courses](#-courses)
 - [Documentation](#-documentation)
 - [Tools & SDKs](#-tools--sdks)
+- [Agent Skills](#-agent-skills)
 - [Deployment & Channels](#-deployment--channels)
 - [Custom Connectors](#-custom-connectors)
 - [Community](#-community)
@@ -61,6 +62,19 @@
 | [API Integration Layer](https://github.com/Yash-Kavaiya/cx-agent-studio-api) | API integration layer for CX Agent Studio workflows |
 | [Dialogflow Intents Bundle](https://github.com/Yash-Kavaiya/dialogflow-intents-bundle) | Bulk create/update Dialogflow CX intents from CSV with async processing, retries, and run reports |
 | [Agent Buddy](https://github.com/Yash-Kavaiya/agent-buddy) | Comprehensive platform for building, managing, and optimizing Dialogflow agents with AI-powered tools |
+
+## 🤖 Agent Skills
+
+Installable AI agent skills for CX Agent Studio development. Works with Claude Code, Cursor, Gemini CLI, GitHub Copilot, and any [skills.sh](https://skills.sh)-compatible agent.
+
+| Skill | Install | Description |
+|-------|---------|-------------|
+| [CX Agent Studio Skill](https://github.com/Yash-Kavaiya/cx-agent-studio-skill) | `npx skills add Yash-Kavaiya/cx-agent-studio-skill` | Expert reference skill — agents, instructions, tools, variables, callbacks, guardrails, evaluations, REST API |
+| [CX Callback Generator](https://github.com/Yash-Kavaiya/cx-callback-generator-skills) | `npx skills add Yash-Kavaiya/cx-callback-generator-skills` | Interactive generator for all 6 callback types with production-ready Python code |
+
+> Also available on ClawHub: `npx clawhub install cx-agent-studio`
+
+---
 
 ## 🚀 Deployment & Channels
 
