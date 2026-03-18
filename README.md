@@ -35,7 +35,8 @@
 
 - [Converting Business Requirements into a Live AI Agent Using Google's CX Agent Studio](https://yashkavaiya.substack.com/p/converting-business-requirements) — A step-by-step guide to building agents from scratch.
 - [How to Deploy a CX Agent Studio Agent to Telegram](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) — Bridging 900 million Telegram users with enterprise-grade conversational AI.
-- [https://yashkavaiya.substack.com/p/the-complete-guide-to-cx-agent-studio](The Complete Guide to CX Agent Studio Architecture — Multi-Agent Design Patterns, Tools, Callbacks & Everything You Need to Know)
+- [The Complete Guide to CX Agent Studio Architecture — Multi-Agent Design Patterns, Tools, Callbacks & Everything You Need to Know](https://yashkavaiya.substack.com/p/the-complete-guide-to-cx-agent-studio)
+  
 ## 📺 Videos
 
 - [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) — Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools.
