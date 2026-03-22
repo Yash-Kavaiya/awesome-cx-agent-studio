@@ -95,7 +95,12 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 
 [![Book a Session](https://img.shields.io/badge/Book%20a%20Session-Topmate-blue)](https://topmate.io/yash_kavaiya)
 
----
+## 📖 Official Google Resources
+- [Customer Experience Agent Studio Product Page](https://cloud.google.com/products/gemini-enterprise-for-customer-experience/agent-studio) — Overview, benefits, and 35 pre-built templates.
+- [Quickstart: Create an Agent Application](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps) — Core docs hub.
+- [Tools Reference](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/tool) — Google Search, Salesforce, client functions, etc.
+- [Pricing](https://cloud.google.com/products/gemini-enterprise-for-customer-experience/cx-agent-studio/pricing) — Chat/Voice agent costs.
+- [AI Agent Finder](https://cloud.withgoogle.com/agentfinder/) — Marketplace of pre-built agents (Box AI, Felix, etc.).
 
 ## Contributing
 
