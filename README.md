@@ -54,9 +54,19 @@
 
 | &nbsp; | Channel | Description |
 |:------:|---------|-------------|
-| ▶️ | [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) | Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools. |
+| ▶️ | [Smart Auto Care Voice Assistant](https://www.linkedin.com/posts/shrutika-shripat_conversationalai-googlecloud-dialogflowcx-activity-7439294549157593088-6aTu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIpFHwBhga3OE_8-vaR2s9WNmfa6waAgCU) | A multi-agent system where specialized AI agents collaborate to handle a real-world workflow end to end.|
+| ▶️ | [Smart Bank Voice Assistant](https://www.linkedin.com/posts/shrutika-shripat_conversationalai-cxagentstudio-bankingtech-activity-7434286182785622017-w7lA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIpFHwBhga3OE_8-vaR2s9WNmfa6waAgCU) |  Latest demo featuring SmartBank AI, a seamless, voice-enabled virtual assistant built completely with CX Agent Studio.
+In today’s fast-paced world, customers expect instant, 24/7 support.|
 
 ---
+
+
+## 📺 Demo videos
+
+| &nbsp; | Demo | Description |
+|:------:|---------|-------------|
+| ▶️ | [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) | Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools. |
+
 
 ## 🎓 Courses
 
