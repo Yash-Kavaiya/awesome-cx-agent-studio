@@ -61,11 +61,13 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 ---
 
 
-## 📺 Demo videos
+## 📺 Videos
 
 | &nbsp; | Demo | Description |
 |:------:|---------|-------------|
 | ▶️ | [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) | Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools. |
+| ▶️ | [Connect Google CX Agent to WhatsApp Website in Minutes Full Platform Demo](https://youtu.be/8jgI7byzy7M?si=XhAQ03fPP3DptCC4) | If you already have an AI agent built on Google Conversational Agents or CX Agent Studio, the hardest part is not building the agent — it's connecting it to real users on WhatsApp and your website |
+| ▶️ | [Build a Production-Ready AI Agent with Google CX Agent Studio Real Estate Use Case](https://youtu.be/dYjyar9E3ro?si=T8dTsn35EchuMULQ) | If you want to learn Google CX Agent Studio, the best way is not by building a toy chatbot — but by building something that a real business can actually use. |
 
 
 ## 🎓 Courses
