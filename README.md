@@ -87,7 +87,10 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 | 📖 | [Official CX Agent Studio Docs](https://cloud.google.com/agent-engine/docs) | Google Cloud's primary documentation. |
 | 📖 | [Dialogflow CX Documentation](https://cloud.google.com/dialogflow/cx/docs) | Reference docs for the underlying Dialogflow CX platform. |
 
----
+## 🔌 MCP Servers
+
+- [CX Agent Studio MCP Server](https://github.com/Yash-Kavaiya/cx-agent-studio-mcp) — Model Context Protocol server for CX Agent Studio
+- [Dialogflow CX MCP Server](https://github.com/Yash-Kavaiya/mcp-server-conversation-agents) — MCP server for bidirectional communication with Dialogflow CX
 
 ## 🛠️ Tools & SDKs
 
