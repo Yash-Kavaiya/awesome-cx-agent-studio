@@ -158,7 +158,9 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 </tr>
 <tr>
 <td>🔄 <a href="https://github.com/Yash-Kavaiya/cx-callback-generator-skills">CX Callback Generator</a></td>
-<td><code>npx skills add Yash-Kavaiya/cx-callback-generator-skills</code></td>
+<td><code>npx skills add Yash-Kavaiya/cx-callback-generator-skills</code>
+https://skillsmp.com/skills/yash-kavaiya-cx-callback-generator-skills-skills-cx-callback-generator-skill-md
+</td>
 <td>Interactive generator for all 6 callback types with production-ready Python code</td>
 </tr>
 </tbody>
