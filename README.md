@@ -47,6 +47,7 @@
 | 📄 | [Converting Business Requirements into a Live AI Agent Using Google's CX Agent Studio](https://yashkavaiya.substack.com/p/converting-business-requirements) | A step-by-step guide to building agents from scratch. |
 | 📄 | [How to Deploy a CX Agent Studio Agent to Telegram](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) | Bridging 900 million Telegram users with enterprise-grade conversational AI. |
 | 📄 | [The Complete Guide to CX Agent Studio Architecture — Multi-Agent Design Patterns, Tools, Callbacks & Everything You Need to Know](https://yashkavaiya.substack.com/p/the-complete-guide-to-cx-agent-studio) | &nbsp; |
+| 📄 | [The Complete Guide to CX Agent Studio Architecture — Multi-Agent Design Patterns, Tools, Callbacks & Everything You Need to Know](https://medium.com/google-cloud/the-complete-guide-to-cx-agent-studio-architecture-multi-agent-design-patterns-tools-callbacks-9ab81d7eddab) | Published on Google Cloud (Medium) — deep dive into architecture, multi-agent design patterns, tools, and callbacks. |
 
 ---
 
@@ -314,6 +315,7 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 | 📐 | [Official Agents Reference](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent) | Root agent as orchestrator, sub-agents for specialized tasks. |
 | 🧪 | [Sample Agent Applications in Console](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent-sample) | Cymbal Retail (multi-agent upselling + out-of-scope handling), with full instructions, tools, and variables examples. |
 | 🏗️ | [The Complete Guide to CX Agent Studio Architecture (My Substack)](https://yashkavaiya.substack.com/p/the-complete-guide-to-cx-agent-studio) | Deep dive into patterns, callbacks, guardrails, and graph-based flows. |
+| 🏗️ | [The Complete Guide to CX Agent Studio Architecture (Google Cloud / Medium)](https://medium.com/google-cloud/the-complete-guide-to-cx-agent-studio-architecture-multi-agent-design-patterns-tools-callbacks-9ab81d7eddab) | Published on the official Google Cloud Medium publication — architecture, multi-agent patterns, tools, callbacks. |
 | 🔀 | [Route & Sub-Agent Diagram (Official)](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent) | Visual of the agent tree. |
 
 ---
