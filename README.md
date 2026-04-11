@@ -136,8 +136,6 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 </tbody>
 </table>
 
----
-
 ## 🤖 Agent Skills
 
 > Installable AI agent skills for CX Agent Studio development. Works with Claude Code, Cursor, Gemini CLI, GitHub Copilot, and any [skills.sh](https://skills.sh)-compatible agent.
@@ -163,12 +161,17 @@ https://skillsmp.com/skills/yash-kavaiya-cx-callback-generator-skills-skills-cx-
 </td>
 <td>Interactive generator for all 6 callback types with production-ready Python code</td>
 </tr>
+  <tr>
+<td>🔄 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-evaluations-shell-script">Interactive Bash CLI: CX Agent Studio Evaluations </a></td>
+<td>
+</td>
+<td>Interactive Bash CLI: CX Agent Studio Evaluations </td>
+</tr>
 </tbody>
 </table>
 
 > Also available on ClawHub: `npx clawhub install cx-agent-studio`
 
----
 
 ## 🚀 Deployment & Channels
 
@@ -223,13 +226,9 @@ https://skillsmp.com/skills/yash-kavaiya-cx-callback-generator-skills-skills-cx-
 
 > **Deployment methods supported:** Cloud Run (recommended), Cloud Functions, Docker, Kubernetes.
 
----
-
 ## 🔌 Custom Connectors
 
 > _This section is growing — [add your custom connector](#contributing) via pull request!_
-
----
 
 ## 🧑‍🤝‍🧑 Community
 
@@ -238,10 +237,9 @@ https://skillsmp.com/skills/yash-kavaiya-cx-callback-generator-skills-skills-cx-
 | <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /> | [r/CXAgentStudio](https://www.reddit.com/r/CXAgentStudio/) | Reddit community for discussions, tips, and support. |
 | <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> | [CX Agent Studio — LinkedIn Group](https://www.linkedin.com/groups/8701599/) | Connect with practitioners, share use cases, and stay updated on the latest from the community. |
 
-A curated resource hub for building, evaluating, and deploying conversational AI agents using Google Cloud's CX Agent Studio. 
 
 ## Resources
-- [Interactive Bash CLI: CX Agent Studio Evaluations](https://github.com/Yash-Kavaiya/cx-agent-studio-evaluations-shell-script): A robust REST API CLI with 28 operations, plus CSV export.
+- [](): A robust REST API CLI with 28 operations, plus CSV export.
 
 ## 💬 Support
 
@@ -250,12 +248,9 @@ A curated resource hub for building, evaluating, and deploying conversational AI
 Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 
 <br/>
-
 <a href="https://topmate.io/yash_kavaiya"><img src="https://img.shields.io/badge/📅%20Book%20a%20Session-Topmate-5865F2?style=for-the-badge" alt="Book a Session" /></a>
-
 </div>
 
----
 
 ## 📖 Official Google Resources
 
@@ -306,7 +301,6 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 </tbody>
 </table>
 
----
 
 ## 🤖 Multi-Agent Design Patterns
 
@@ -320,8 +314,6 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 | 🏗️ | [The Complete Guide to CX Agent Studio Architecture (Google Cloud / Medium)](https://medium.com/google-cloud/the-complete-guide-to-cx-agent-studio-architecture-multi-agent-design-patterns-tools-callbacks-9ab81d7eddab) | Published on the official Google Cloud Medium publication — architecture, multi-agent patterns, tools, callbacks. |
 | 🔀 | [Route & Sub-Agent Diagram (Official)](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/agent) | Visual of the agent tree. |
 
----
-
 ## 🔐 Security & Compliance
 
 | &nbsp; | Resource | Description |
@@ -331,8 +323,6 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 | 🏢 | [GCP Org Policy Coverage](https://stackoverflow.com/questions/79911859/coverage-of-gcp-org-policies-across-cx-agent-studio) | Threat modeling discussion. |
 | 🔒 | [UJET + CX Agent Studio Security Pillars](https://ujet.cx/blog/ai-agent-building-just-got-easier-how-ujet-google-cloud-cx-agent-studio-are-redefining-automation) | Consent, Control, Trusted Protocols. |
 
----
-
 ## 📊 Monitoring & Observability
 
 | &nbsp; | Resource | Description |
@@ -341,8 +331,6 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 | 📈 | [Vertex AI + Cloud Monitoring Integration](https://cloud.google.com/solutions/observability) | Recommended stack for production agents. |
 | ✅ | [Evaluation Pipelines & Batch Upload](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps) | Automated quality scoring. |
 
----
-
 ## 🔄 Migration from Dialogflow CX
 
 | &nbsp; | Resource | Description |
@@ -350,8 +338,6 @@ Need hands-on help? Book a 1:1 CX Agent Studio consultation on Topmate.
 | 🗺️ | [Isolated vs Integrated Migration Strategy](https://docs.cloud.google.com/customer-engagement-ai/conversational-agents/ps/flow) | Official guidance. |
 | 🏗️ | [Simplified Migration Path (UJET)](https://ujet.cx/blog/ai-agent-building-just-got-easier-how-ujet-google-cloud-cx-agent-studio-are-redefining-automation) | Real-world CCaaS example. |
 | 🔀 | [Hybrid Agent Tutorial (2026)](https://www.youtube.com/watch?v=hHedypRY9dg) | Flows + Playbooks + Generative fallback. |
-
----
 
 ## Contributing
 
@@ -362,8 +348,6 @@ Contributions are welcome! Please open a **pull request** or **issue** to add ne
 3. Commit your changes (`git commit -m "Add new resource"`)
 4. Push to the branch (`git push origin add-new-resource`)
 5. Open a Pull Request
-
----
 
 <div align="center">
 
