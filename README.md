@@ -47,7 +47,7 @@
 | 📄 | [Converting Business Requirements into a Live AI Agent Using Google's CX Agent Studio](https://yashkavaiya.substack.com/p/converting-business-requirements) | A step-by-step guide to building agents from scratch. |
 | 📄 | [How to Deploy a CX Agent Studio Agent to Telegram](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) | Bridging 900 million Telegram users with enterprise-grade conversational AI. |
 | 📄 | [The Complete Guide to CX Agent Studio Architecture — Multi-Agent Design Patterns, Tools, Callbacks & Everything You Need to Know](https://medium.com/google-cloud/the-complete-guide-to-cx-agent-studio-architecture-multi-agent-design-patterns-tools-callbacks-9ab81d7eddab) | Published on Google Cloud (Medium) — deep dive into architecture, multi-agent design patterns, tools, and callbacks. |
-
+| 📄 | [I Built a CLI That Covers Every CX Agent Studio Evaluation API Endpoint — Here’s How It Works](https://medium.com/google-cloud/i-built-a-cli-that-covers-every-cx-agent-studio-evaluation-api-endpoint-heres-how-it-works-5208ab9c0560) | Published on Google Cloud (Medium) — I Built a CLI That Covers Every CX Agent Studio Evaluation API Endpoint — Here’s How It Works |
 ---
 
 ## 📺 Videos
