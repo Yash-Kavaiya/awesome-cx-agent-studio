@@ -92,6 +92,9 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 - [CX Agent Studio MCP Server](https://github.com/Yash-Kavaiya/cx-agent-studio-mcp) — Model Context Protocol server for CX Agent Studio
 - [Dialogflow CX MCP Server](https://github.com/Yash-Kavaiya/mcp-server-conversation-agents) — MCP server for bidirectional communication with Dialogflow CX
 
+## CX Agent Studio Scripting API (CXAS SCRAPI)
+- https://github.com/Yash-Kavaiya/cxas-scrapi
+- https://googlecloudplatform.github.io/cxas-scrapi
 ## 🛠️ Tools & SDKs
 
 <table>
