@@ -58,8 +58,9 @@
 | ▶️ | [Smart Bank Voice Assistant](https://www.linkedin.com/posts/shrutika-shripat_conversationalai-cxagentstudio-bankingtech-activity-7434286182785622017-w7lA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIpFHwBhga3OE_8-vaR2s9WNmfa6waAgCU) |  Latest demo featuring SmartBank AI, a seamless, voice-enabled virtual assistant built completely with CX Agent Studio.
 In today’s fast-paced world, customers expect instant, 24/7 support.|
 
----
-
+## CX Agent Studio Scripting API (CXAS SCRAPI)
+- [https://github.com/GoogleCloudPlatform/cxas-scrapi](https://github.com/GoogleCloudPlatform/cxas-scrapi)
+- https://googlecloudplatform.github.io/cxas-scrapi
 
 ## 📺 Videos
 
@@ -92,9 +93,7 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 - [CX Agent Studio MCP Server](https://github.com/Yash-Kavaiya/cx-agent-studio-mcp) — Model Context Protocol server for CX Agent Studio
 - [Dialogflow CX MCP Server](https://github.com/Yash-Kavaiya/mcp-server-conversation-agents) — MCP server for bidirectional communication with Dialogflow CX
 
-## CX Agent Studio Scripting API (CXAS SCRAPI)
-- https://github.com/Yash-Kavaiya/cxas-scrapi
-- https://googlecloudplatform.github.io/cxas-scrapi
+
 ## 🛠️ Tools & SDKs
 
 <table>
