@@ -179,55 +179,20 @@ https://skillsmp.com/skills/yash-kavaiya-cx-callback-generator-skills-skills-cx-
 
 > Deploy your CX Agent Studio agent across 7 messaging platforms with production-ready integrations. Each integration handles webhooks, session management, message formatting, and rich media out of the box.
 
-<table>
-<thead>
-<tr>
-<th width="220">Channel</th>
-<th width="120" align="center">Language</th>
-<th width="120" align="center">Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>💬 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/whatsapp">WhatsApp Business</a></td>
-<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-<td align="center"><img src="https://img.shields.io/badge/✅%20Ready-34A853?style=flat-square" alt="Ready" /></td>
-</tr>
-<tr>
-<td>💼 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/slack">Slack</a></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
-<td align="center"><img src="https://img.shields.io/badge/✅%20Ready-34A853?style=flat-square" alt="Ready" /></td>
-</tr>
-<tr>
-<td>📱 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/telegram">Telegram</a></td>
-<td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></td>
-<td align="center"><img src="https://img.shields.io/badge/✅%20Ready-34A853?style=flat-square" alt="Ready" /></td>
-</tr>
-<tr>
-<td>🎮 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/discord">Discord</a></td>
-<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-<td align="center"><img src="https://img.shields.io/badge/✅%20Ready-34A853?style=flat-square" alt="Ready" /></td>
-</tr>
-<tr>
-<td>💬 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/google-chat">Google Chat</a></td>
-<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-<td align="center"><img src="https://img.shields.io/badge/✅%20Ready-34A853?style=flat-square" alt="Ready" /></td>
-</tr>
-<tr>
-<td>🎥 <a href="https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/zoom">Zoom</a></td>
-<td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></td>
-<td align="center"><img src="https://img.shields.io/badge/✅%20Ready-34A853?style=flat-square" alt="Ready" /></td>
-</tr>
-<tr>
-<td>🟦 Microsoft Teams</td>
-<td align="center">—</td>
-<td align="center"><img src="https://img.shields.io/badge/🚧%20Coming%20Soon-FFA500?style=flat-square" alt="Coming Soon" /></td>
-</tr>
-<td>💬 <a href="https://github.com/GoogleCloudPlatform/ces-twilio-adapter">ces-twilio-adapter </a></td>
-<td>💬 <a href="https://github.com/GoogleCloudPlatform/ces-genesys-chat">Genesys Chat Adapter for CXAS  </a></td>
-  <td>💬 <a href="https://github.com/GoogleCloudPlatform/ces-messenger">CES Messenger Web Component </a></td>
-</tbody>
-</table>
+Deploy your CX Agent Studio agent across 7 messaging platforms with production-ready integrations. Each integration handles webhooks, session management, message formatting, and rich media out of the box.
+
+| Channel | Language | Status |
+|---------|:--------:|:------:|
+| 💬 [WhatsApp Business](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/whatsapp) | Node.js | ✅ Ready |
+| 💼 [Slack](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/slack) | Python | ✅ Ready |
+| 📱 [Telegram](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/telegram) | Python | ✅ Ready |
+| 🎮 [Discord](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/discord) | Node.js | ✅ Ready |
+| 💬 [Google Chat](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/google-chat) | Node.js | ✅ Ready |
+| 🎥 [Zoom](https://github.com/Yash-Kavaiya/cx-agent-studio-channels/tree/main/zoom) | Node.js | ✅ Ready |
+| 🟦 Microsoft Teams | — | 🚧 Coming Soon |
+| 💬 [ces-twilio-adapter](https://github.com/GoogleCloudPlatform/ces-twilio-adapter) | — | — |
+| 💬 [Genesys Chat Adapter for CXAS](https://github.com/GoogleCloudPlatform/ces-genesys-chat) | — | — |
+| 💬 [CES Messenger Web Component](https://github.com/GoogleCloudPlatform/ces-messenger) | — | — |
 
 > **Deployment methods supported:** Cloud Run (recommended), Cloud Functions, Docker, Kubernetes.
 
