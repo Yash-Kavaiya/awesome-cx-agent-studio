@@ -223,6 +223,9 @@ https://skillsmp.com/skills/yash-kavaiya-cx-callback-generator-skills-skills-cx-
 <td align="center">—</td>
 <td align="center"><img src="https://img.shields.io/badge/🚧%20Coming%20Soon-FFA500?style=flat-square" alt="Coming Soon" /></td>
 </tr>
+<td>💬 <a href="https://github.com/GoogleCloudPlatform/ces-twilio-adapter">ces-twilio-adapter </a></td>
+<td>💬 <a href="https://github.com/GoogleCloudPlatform/ces-genesys-chat">Genesys Chat Adapter for CXAS  </a></td>
+  <td>💬 <a href="https://github.com/GoogleCloudPlatform/ces-messenger">CES Messenger Web Component </a></td>
 </tbody>
 </table>
 
