@@ -48,15 +48,13 @@
 | 📄 | [How to Deploy a CX Agent Studio Agent to Telegram](https://yashkavaiya.substack.com/p/how-to-deploy-a-google-cloud-next?r=nvsax&utm_campaign=post&utm_medium=web&triedRedirect=true) | Bridging 900 million Telegram users with enterprise-grade conversational AI. |
 | 📄 | [The Complete Guide to CX Agent Studio Architecture — Multi-Agent Design Patterns, Tools, Callbacks & Everything You Need to Know](https://medium.com/google-cloud/the-complete-guide-to-cx-agent-studio-architecture-multi-agent-design-patterns-tools-callbacks-9ab81d7eddab) | Published on Google Cloud (Medium) — deep dive into architecture, multi-agent design patterns, tools, and callbacks. |
 | 📄 | [I Built a CLI That Covers Every CX Agent Studio Evaluation API Endpoint — Here’s How It Works](https://medium.com/google-cloud/i-built-a-cli-that-covers-every-cx-agent-studio-evaluation-api-endpoint-heres-how-it-works-5208ab9c0560) | Published on Google Cloud (Medium) — I Built a CLI That Covers Every CX Agent Studio Evaluation API Endpoint — Here’s How It Works |
----
 
 ## 📺 Videos
 
 | &nbsp; | Channel | Description |
 |:------:|---------|-------------|
 | ▶️ | [Smart Auto Care Voice Assistant](https://www.linkedin.com/posts/shrutika-shripat_conversationalai-googlecloud-dialogflowcx-activity-7439294549157593088-6aTu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIpFHwBhga3OE_8-vaR2s9WNmfa6waAgCU) | A multi-agent system where specialized AI agents collaborate to handle a real-world workflow end to end.|
-| ▶️ | [Smart Bank Voice Assistant](https://www.linkedin.com/posts/shrutika-shripat_conversationalai-cxagentstudio-bankingtech-activity-7434286182785622017-w7lA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIpFHwBhga3OE_8-vaR2s9WNmfa6waAgCU) |  Latest demo featuring SmartBank AI, a seamless, voice-enabled virtual assistant built completely with CX Agent Studio.
-In today’s fast-paced world, customers expect instant, 24/7 support.|
+| ▶️ | [Smart Bank Voice Assistant](https://www.linkedin.com/posts/shrutika-shripat_conversationalai-cxagentstudio-bankingtech-activity-7434286182785622017-w7lA?utm_source=share&utm_medium=member_desktop&rcm=ACoAADIpFHwBhga3OE_8-vaR2s9WNmfa6waAgCU) |  Latest demo featuring SmartBank AI, a seamless, voice-enabled virtual assistant built completely with CX Agent Studio. In today’s fast-paced world, customers expect instant, 24/7 support.|
 
 ## CX Agent Studio Scripting API (CXAS SCRAPI)
 - [https://github.com/GoogleCloudPlatform/cxas-scrapi](https://github.com/GoogleCloudPlatform/cxas-scrapi)
@@ -69,7 +67,8 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 | ▶️ | [GenAI Guru YouTube Channel](https://youtube.com/@genai-guru) | Tutorials and demos on CX Agent Studio, Dialogflow CX, and Google Cloud AI tools. |
 | ▶️ | [Connect Google CX Agent to WhatsApp Website in Minutes Full Platform Demo](https://youtu.be/8jgI7byzy7M?si=XhAQ03fPP3DptCC4) | If you already have an AI agent built on Google Conversational Agents or CX Agent Studio, the hardest part is not building the agent — it's connecting it to real users on WhatsApp and your website |
 | ▶️ | [Build a Production-Ready AI Agent with Google CX Agent Studio Real Estate Use Case](https://youtu.be/dYjyar9E3ro?si=T8dTsn35EchuMULQ) | If you want to learn Google CX Agent Studio, the best way is not by building a toy chatbot — but by building something that a real business can actually use. |
-
+| | [Mastering cxas scrapi Claude, Sim Evals GitHub Actions](https://youtu.be/RSAFAeX1ruE) | |
+| | [Hermes Agent + CXAS Scrapi Create a Telecom PoC using Scrapi CLI](https://youtu.be/fgsG6IJqbiY) | |
 
 ## 🎓 Courses
 
@@ -79,7 +78,6 @@ In today’s fast-paced world, customers expect instant, 24/7 support.|
 | 🎯 | [Google Partner Skills — Course 1600](https://partner.skills.google/course_templates/1600) | ![Google](https://img.shields.io/badge/Google%20Partner-4285F4?style=flat-square&logo=google&logoColor=white) |
 | 🎯 | [Google Partner Skills — Course 1446](https://partner.skills.google/course_templates/1446) | ![Google](https://img.shields.io/badge/Google%20Partner-4285F4?style=flat-square&logo=google&logoColor=white) |
 
----
 
 ## 📚 Documentation
 
