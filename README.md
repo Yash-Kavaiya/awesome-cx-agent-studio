@@ -77,6 +77,8 @@
 | 🎯 | [CX Agent Studio: Build Multimodal Customer Experience AI](https://www.udemy.com/course/cx-agent-studio-build-multimodal-customer-experience-ai/?referralCode=1381ED44B07BDACC72D7) | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) |
 | 🎯 | [Google Partner Skills — Course 1600](https://partner.skills.google/course_templates/1600) | ![Google](https://img.shields.io/badge/Google%20Partner-4285F4?style=flat-square&logo=google&logoColor=white) |
 | 🎯 | [Google Partner Skills — Course 1446](https://partner.skills.google/course_templates/1446) | ![Google](https://img.shields.io/badge/Google%20Partner-4285F4?style=flat-square&logo=google&logoColor=white) |
+| 🎯 | [Build Code-First Enterprise Agents with CX Agent Studio](https://partner.skills.google/course_templates/1791) | ![Google](https://img.shields.io/badge/Google%20Partner-4285F4?style=flat-square&logo=google&logoColor=white) |
+
 
 
 ## 📚 Documentation
